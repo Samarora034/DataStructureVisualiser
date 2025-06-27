@@ -20,26 +20,22 @@ A fully interactive visualizer for array operations and algorithms built with **
   - Reverse array
   - Rotate left / Rotate right
 
-
-
 ## 📷 Screenshots
 
 ### 🎨 Insertion Sort Animation
-(![insertion sort](https://github.com/user-attachments/assets/f86d6208-cacb-4e12-a0dc-740c2a4c9a4a)
-)
+![insertion sort](https://github.com/user-attachments/assets/f86d6208-cacb-4e12-a0dc-740c2a4c9a4a)
+
 
 ### 🔍 Binary Search
-(![binary search](https://github.com/user-attachments/assets/7b2122e1-ff45-4ef6-93db-d1ec015d30a8)
-)
+![binary search](https://github.com/user-attachments/assets/7b2122e1-ff45-4ef6-93db-d1ec015d30a8)
+
 
 ### 🔄 Merge Sort Visualization
-(![merge sort](https://github.com/user-attachments/assets/ff073f7c-f3a5-46a7-9e39-98d29c25ef35)
-)
+![merge sort](https://github.com/user-attachments/assets/ff073f7c-f3a5-46a7-9e39-98d29c25ef35)
+
 
 ### 🔄 Linear Search Visualization
-(![merge sort](![linear search](https://github.com/user-attachments/assets/3aeaafdd-eb94-444a-b55b-a4b76a968357)
-)
-)
+![merge sort](![linear search](https://github.com/user-attachments/assets/3aeaafdd-eb94-444a-b55b-a4b76a968357)
 
 ---
 
