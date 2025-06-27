@@ -1,0 +1,54 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background: #f4f4f4;
+}
+
+#array-container {
+  display: flex;
+  gap: 10px;
+  margin-top: 20px;
+  flex-wrap: wrap;
+  align-items: flex-end;
+}
+
+.array-bar {
+  width: 40px;
+  text-align: center;
+  padding: 10px;
+  background: #3498db;
+  color: white;
+  border-radius: 5px;
+  transition: transform 0.5s ease, background-color 0.5s ease;
+  position: relative;
+}
+
+.highlight {
+  background: orange !important;
+  transform: translateY(-20px);
+}
+
+.sorted {
+  background: green !important;
+}
+
+.split-left {
+  background: #9b59b6 !important;
+  transform: translateX(-20px);
+}
+
+.split-right {
+  background: #e67e22 !important;
+  transform: translateX(20px);
+}
+
+.fade-out {
+  opacity: 0.3;
+  transform: scale(0.8);
+}
+
+input,
+button {
+  margin: 5px;
+  padding: 8px;
+}
