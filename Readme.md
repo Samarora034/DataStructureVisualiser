@@ -1,8 +1,9 @@
-# 📊 DataStructureVisualiser
+# 📊 DataStructureVisualiser ## 🖥️ Live Demo(https://data-structure-visualiser.vercel.app/)
 
 A fully interactive visualizer for array operations and algorithms built with **HTML, CSS, and JavaScript**. This tool demonstrates how array manipulations and classic sorting/searching algorithms work — in a visually immersive and intuitive way.
 
-![Banner](images/banner.png)
+![Banner](https://github.com/user-attachments/assets/a035e6e6-2570-4125-9d00-dd766ce5b362)
+
 
 ## 🔥 Features
 
@@ -19,23 +20,26 @@ A fully interactive visualizer for array operations and algorithms built with **
   - Reverse array
   - Rotate left / Rotate right
 
-## 🖥️ Live Demo
 
-👉 **[Try it now](https://your-hosted-link.netlify.app/)**  
-*(Replace this link with your Netlify/Vercel/GitHub Pages deployment)*
-
----
 
 ## 📷 Screenshots
 
 ### 🎨 Insertion Sort Animation
-![Insertion Sort](images/insertion-sort.gif)
+(![insertion sort](https://github.com/user-attachments/assets/f86d6208-cacb-4e12-a0dc-740c2a4c9a4a)
+)
 
 ### 🔍 Binary Search
-![Binary Search](images/binary-search.gif)
+(![binary search](https://github.com/user-attachments/assets/7b2122e1-ff45-4ef6-93db-d1ec015d30a8)
+)
 
 ### 🔄 Merge Sort Visualization
-![Merge Sort](images/merge-sort.gif)
+(![merge sort](https://github.com/user-attachments/assets/ff073f7c-f3a5-46a7-9e39-98d29c25ef35)
+)
+
+### 🔄 Linear Search Visualization
+(![merge sort](![linear search](https://github.com/user-attachments/assets/3aeaafdd-eb94-444a-b55b-a4b76a968357)
+)
+)
 
 ---
 
